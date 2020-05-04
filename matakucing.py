@@ -1,5 +1,5 @@
 clear
-echo "\033[34;1m Selamat Datang di Tool MataKucing"
+echo "\033[34;1m Selamat Datang di Tool MataKucing1.1"
 sleep 1
 echo "\033[35;1m Anda disini dapat menginstall berbagai tools" | lolcat
 sleep 1
